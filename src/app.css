@@ -968,6 +968,7 @@ input[type='checkbox'] {
   .mobile-nav {
     top: 0;
     left: 0;
+    translate: none !important;
     transform: none;
     width: min(300px, 90vw);
     max-width: 90vw;
